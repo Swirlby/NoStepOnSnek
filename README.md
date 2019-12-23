@@ -1,6 +1,6 @@
-UristMcStation
+No Step on Snek Station (Name Pending)
 
-Urist McStation's BS12 branch. [![Build Status](https://travis-ci.org/UristMcStation/UristMcStation.png)](https://travis-ci.org/UristMcStation/UristMcStation)
+Based on the Urist McStation's BS12 branch. [![Build Status](https://travis-ci.org/UristMcStation/UristMcStation.png)](https://travis-ci.org/UristMcStation/UristMcStation)
 
 # baystation12
 
